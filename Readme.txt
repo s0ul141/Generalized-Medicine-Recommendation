@@ -7,7 +7,7 @@ healthcare providers in making informed and personalized
 medication choices for their patients. Rather than focusing on a 
 single medical condition or patient demographic, our approach is 
 "generalized," designed to cater to some extent of broad 
-spectrum of healthcare scenarios. We aim to create a userfriendly interface that empowers healthcare professionals with 
+spectrum of healthcare scenarios. We aim to create a user-friendly interface that empowers healthcare professionals with 
 evidence-based insights, facilitating more precise and patient centric treatment decisions. Leveraging advanced machine 
 learning algorithms and a diverse dataset which contains 
 information about, BMI, height, weight, age, blood groups, 
